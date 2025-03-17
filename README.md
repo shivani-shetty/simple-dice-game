@@ -2,6 +2,10 @@
 
 A simple dice game built using **HTML, CSS, and JavaScript** where two players compete to reach **100 points** first.
 
+## 🎮 Live Demo  
+Play the game here: (https://shivani-shetty.github.io/simple-dice-game/) 🎲  
+
+
 ## 📜 Game Rules
 
 1. **Rolling the Dice:**
